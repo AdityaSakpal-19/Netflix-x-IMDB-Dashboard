@@ -14,4 +14,5 @@ This Power BI dashboard was created as part of the **Coding Ninja Workshop** to 
 - Data transformation using **Power Query**  
 - Interactive visualizations with **Power BI Visuals**
 
-"C:\Users\Aditya Sakpal\OneDrive\Pictures\Screenshots\Netflix x IMDb.png"
+
+<img width="1339" height="720" alt="Netflix x IMDb" src="https://github.com/user-attachments/assets/e85e5b80-02e1-436f-9bef-4ef3aee3e6d7" />
